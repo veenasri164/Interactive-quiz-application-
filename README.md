@@ -1,2 +1,11 @@
-# Interactive quiz application
+  COMPANY NAME  :  CODTECH IT SOLUTIONS
 
+  NAME          :    VEENA SREE
+
+  INTERN ID     :   CTO4DH609
+
+  DOMAIN        :   FRONTEND WEB DEVELOPMENT
+
+  DURATION      :   4 WEEKS
+
+  MENTOR        :  NEELA SANTOSH
